@@ -1,4 +1,4 @@
-# Quasar App (macro-finisher)
+# Macronutrient Finisher using Nutritionix API
 
 Using Nutritionix API to search the restaurant database for foods that satisfy your specific macros.
 
