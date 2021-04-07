@@ -1,6 +1,7 @@
 # Macronutrient Finisher using Nutritionix API
 
 Using Nutritionix API to search the restaurant database for foods that satisfy your specific macros.
+![Demo](https://gifs.com/gif/macro-finisher-demo-gif-oVpAON)
 
 ## Create a config.js file and insert Google Geolocation API Key and Nutritionix API Key
 
