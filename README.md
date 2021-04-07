@@ -1,6 +1,6 @@
 # Quasar App (macro-finisher)
 
-A Quasar Framework app
+Using Nutritionix API to search the restaurant database for foods that satisfy your specific macros.
 
 ## Install the dependencies
 ```bash
