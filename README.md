@@ -2,6 +2,8 @@
 
 Using Nutritionix API to search the restaurant database for foods that satisfy your specific macros.
 
+## Create a config.js file and insert Google Geolocation API Key and Nutritionix API Key
+
 ## Install the dependencies
 ```bash
 npm install
